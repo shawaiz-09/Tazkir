@@ -1,17 +1,22 @@
-# Tazkir
+**Assalamu Alaikum**
 
-A new Flutter project.
+Tazkir is an Islamic lifestyle app built to keep your daily spiritual routine simple, beautiful, and completely private.
 
-## Getting Started
+**. What You Get**
+Accurate prayer times for your exact location. Daily Quran Ayahs in Arabic with English or Urdu. A digital Tasbeeh that remembers your counts. Small Islamic goals to keep you consistent. Sunrise, Zawal, and Sunset times. Hijri and Gregorian calendars together.
 
-This project is a starting point for a Flutter application.
+**. Built for Privacy**
+No accounts. No tracking. No internet required for core features. Everything stays on your phone.
 
-A few resources to get you started if this is your first Flutter project:
+**. Download**
+Get the latest APK from the Releases section.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+**. Requirements**
+Android 6.0 or above. Location permission for prayer times. Notification permission is optional.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**. Feedback**
+Your thoughts help make Tazkir better for all of us. Please open an issue if something feels off or you have an idea.
+
+I built this as a Sadaqah Jariyah. May Allah accept it from all of us.
+
+**Jazakum Allahu Khairan**
