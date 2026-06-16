@@ -1,0 +1,40 @@
+name: tazkir
+description: An Islamic luxury dark theme app for Tasbeeh counting and Zikr storage.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.5
+  google_fonts: ^8.1.0
+  shared_preferences: ^2.5.5
+  intl: ^0.20.2
+  hijri: ^3.0.1
+  share_plus: ^7.2.2
+  lottie: ^3.3.3
+  adhan: ^2.0.0
+  geocoding: ^2.2.2
+  geolocator: ^10.1.1
+  url_launcher: ^6.3.2
+  flutter_local_notifications: ^21.0.0
+  timezone: ^0.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/quran_arabic.json
+    - assets/quran_english.json
+    - assets/quran_urdu.json
+    - assets/countries_cities.json
+    - assets/logo/logo.png
